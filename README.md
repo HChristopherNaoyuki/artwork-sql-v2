@@ -63,7 +63,7 @@ The system comprises 5 interconnected tables:
 ## GitHub Repository
 Access the complete solution at:  
 ```bash
-https://github.com/HChristopherNaoyuki/artwork-sql.git
+https://github.com/HChristopherNaoyuki/artwork-sql-v2.git
 ```
 
 ## Learning Outcomes Demonstrated
