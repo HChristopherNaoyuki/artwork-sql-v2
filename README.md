@@ -1,7 +1,5 @@
 # Artwork Management System
 
-- 🔗 **Main Repository**: [artwork-sql](https://github.com/HChristopherNaoyuki/artwork-sql.git)
-
 ## Project Description
 This SQL database solution implements a complete artwork management system based on the specified business requirements. 
 The system tracks artists, artworks, genres, and exhibitions with their complex relationships.
@@ -77,6 +75,10 @@ https://github.com/HChristopherNaoyuki/artwork-sql.git
 
 This implementation not only meets all assignment requirements but provides a robust 
 foundation for a real-world artwork management system with enhanced functionality and comprehensive reporting capabilities.
+
+## Reference
+
+> Naoyuki Christopher H. (Year). *artwork-sql*. Available at: \https://github.com/HChristopherNaoyuki/artwork-sql.git (Accessed: \2025-08-20).
 
 ## DISCLAIMER
 
