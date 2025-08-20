@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ARTWORK-SQL", "ARTWORK-SQL\ARTWORK-SQL.ssmssqlproj", "{69131E0B-76B2-D644-90B6-DCADA5704D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69131E0B-76B2-D644-90B6-DCADA5704D36}.Default|Default.ActiveCfg = Default
+		{68EA40BE-2A5A-4A5B-929F-DF66F5434260}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D99DB3-07DD-4BE9-8C99-2B74C6D3CEFF}
+	EndGlobalSection
+EndGlobal
