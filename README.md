@@ -78,7 +78,7 @@ foundation for a real-world artwork management system with enhanced functionalit
 
 ## Reference
 
-> Naoyuki Christopher H. (Year). *artwork-sql*. Available at: \https://github.com/HChristopherNaoyuki/artwork-sql.git (Accessed: \2025-08-20).
+> Naoyuki Christopher H. (Year). *artwork-sql*. Available at: https://github.com/HChristopherNaoyuki/artwork-sql.git (Accessed: 2025-08-20).
 
 ## DISCLAIMER
 
